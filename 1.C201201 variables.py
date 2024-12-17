@@ -28,8 +28,8 @@ print(y)
 
 # Assignment 1: Create two variables, one holding a number and the other holding your name. Then print both.
 # Write your code below:
-age = 23
-name = "Sigma Khanam"
+age = 24
+name = "Maisha Maliat"
 print("Age: ", age, end="; ")
 print("Name: ", name)
 
